@@ -1,4 +1,4 @@
-This webpage was created from a practice point of view. There are a lot of different features which I'm listing below:
+This webpage was created from a practice point of view. There are a lot of different features which I've listed below:
 
 - When you hover over the header, it changes color and the text size becomes bigger.
 - Some text generated from lorem ipsum. At the end of the first p tag, there is a link to one of my favorites "Bret Fisher's video" about Kubernetes.
